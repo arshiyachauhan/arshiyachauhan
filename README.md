@@ -1,7 +1,10 @@
-<h1>Hi 👋, I'm Arshiya</h1>
-<h3>A passionate Full-Stack Developer aspiring to implement new ideas</h3>
+<p >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshiya;Welcome+to+my+GitHub+Profile!;Aspiring+Full+Stack+Developer!" alt="Typing Animation" />
+</p>
 
----
+<h3>A passionate learner aspiring built new ideas</h3>
+
+--- 
 
 ### About Me:
 
@@ -11,12 +14,12 @@
 
 ---
 
-### 🌐 Socials:
+### 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshiya-chauhan6/)
 
 ---
 
-### 🖥️ Tech Stack:
+### 🖥️ Languages and Tools:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
