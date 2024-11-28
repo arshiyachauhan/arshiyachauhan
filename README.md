@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Arshiya</h1>
-<h3 align="center">A passionate Full-Stack Developer aspiring to implement new ideas</h3>
+<h1>Hi 👋, I'm Arshiya</h1>
+<h3>A passionate Full-Stack Developer aspiring to implement new ideas</h3>
 
 ---
 
 ### About Me:
 
-- 🌐 I am currently working on **Web Development**.
-- 🚀 I aspire to become a **Full Stack Developer
-- 🛠️ All of my projects are available at [My GitHub](https://github.com/arshiyachauhan).
+- I am currently working on **Web Development**.
+- I aspire to become a **Full Stack Developer**
+- All of my projects are available at [My GitHub](https://github.com/arshiyachauhan).
 
 ---
 
@@ -43,7 +43,7 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyachauhan&theme=dark" alt="GitHub Streak" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyachauhan&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
@@ -51,7 +51,7 @@
 
 ### 🏆 GitHub Trophies:
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=arshiyachauhan&theme=onestar" alt="GitHub Trophies" />
 </p>
 
