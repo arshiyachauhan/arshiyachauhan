@@ -29,19 +29,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
 
 ---
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=arshiyachauhan&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyachauhan&theme=dark" alt="GitHub Streak" />
 </p>
 <p align="center">
