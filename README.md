@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Arshiya</h1>
 <h3 align="center">A passionate Full-Stack Developer aspiring to innovate</h3>
 
@@ -41,13 +39,13 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshiyachauhan&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiyachauhan&theme=dark" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyachauhan&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -55,6 +53,6 @@
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arshiyachauhan&theme=onestar" alt="GitHub Trophies" />
 </p>
 
