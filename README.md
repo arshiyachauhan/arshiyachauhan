@@ -1,9 +1,9 @@
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshiya+Chauhan...;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshiya+Chauhan;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </p>
 
 
-<h3>A passionate learner aspiring to built new ideas</h3>
+<h3>A passionate learner aspiring to build new ideas</h3>
 
 --- 
 
@@ -15,12 +15,12 @@
 
 ---
 
-### 🌐 Social:
+### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshiya-chauhan6/)
 
 ---
 
-### 🖥️ Languages and Tools:
+### 🛠️ Languages and Tools:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📉 GitHub Stats:
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=arshiyachauhan&show_icons=true&theme=dark" alt="GitHub Stats" />
@@ -58,4 +58,12 @@
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=arshiyachauhan&theme=onestar" alt="GitHub Trophies" />
 </p>
+
+---
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=arshiya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View Counter" />
+</p>
+
+
 
