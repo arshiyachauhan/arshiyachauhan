@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshiya</h1>
-<h3 align="center">A passionate Full-Stack Developer aspiring to innovate</h3>
+<h3 align="center">A passionate Full-Stack Developer aspiring to implement new ideas</h3>
 
 ---
 
