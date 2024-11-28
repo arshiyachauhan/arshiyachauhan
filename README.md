@@ -1,6 +1,7 @@
-<p >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshiya;Welcome+to+my+GitHub+Profile!;Aspiring+Full+Stack+Developer!" alt="Typing Animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshiya;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </p>
+
 
 <h3>A passionate learner aspiring built new ideas</h3>
 
