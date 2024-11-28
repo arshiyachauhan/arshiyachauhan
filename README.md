@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshiya;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshiya+Chauhan...;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </p>
 
 
-<h3>A passionate learner aspiring built new ideas</h3>
+<h3>A passionate learner aspiring to built new ideas</h3>
 
 --- 
 
