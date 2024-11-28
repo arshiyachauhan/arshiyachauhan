@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshiya+Chauhan;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00FF00&center=false&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Arshiya+Chauhan;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </p>
 
 
