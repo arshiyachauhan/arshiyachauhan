@@ -41,17 +41,11 @@
 
 ### 📉 GitHub Stats:
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=arshiyachauhan&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=arshiyachauhan&show_icons=true&theme=dark" alt="GitHub Stats" />
 
-<p>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=arshiyachauhan&theme=dark" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=arshiyachauhan&theme=dark" alt="GitHub Streak" />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyachauhan&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiyachauhan&layout=compact&theme=dark" alt="Top Languages" />
 
 
 
