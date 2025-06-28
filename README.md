@@ -44,9 +44,11 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=arshiyachauhan&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
 <p>
-  <img src="https://github-readme-streak-stats.demolab.com?user=arshiyachauhan&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=arshiyachauhan&theme=dark" alt="GitHub Streak" />
 </p>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyachauhan&layout=compact&theme=dark" alt="Top Languages" />
 </p>
