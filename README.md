@@ -54,7 +54,7 @@
 ### 🏆 GitHub Trophies:
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=arshiyachauhan&theme=onestar" alt="GitHub Trophies" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshiyachauhan&theme=github_dark" />
 </p>
 
 ---
